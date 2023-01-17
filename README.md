@@ -5,7 +5,7 @@
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Finished-green)
 
 # :hammer: Funcionalidade do projeto 
-- `Funcionalidade`: Navegação pelo aplicativo e visualização vídeos, produtos e artigos.
+- `Funcionalidade`: Navegação pelo aplicativo e visualização de vídeos, produtos e artigos.
 
 
 
